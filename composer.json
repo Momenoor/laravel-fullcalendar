@@ -2,6 +2,7 @@
     "name": "momenoor/laravel-fullcalendar",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [{
         "name": "Momen Noor",
         "email": "momen.noor@gmail.com"
