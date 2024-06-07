@@ -1,3 +1,5 @@
+
+
 # Laravel 8+ Full Calendar Helper
 
 [![Latest Stable Version](https://poser.pugx.org/momenoor/laravel-fullcalendar/v/stable)](https://packagist.org/packages/momenoor/laravel-fullcalendar) [![Total Downloads](https://poser.pugx.org/momenoor/laravel-fullcalendar/downloads)](https://packagist.org/packages/momenoor/laravel-fullcalendar) [![Latest Unstable Version](https://poser.pugx.org/momenoor/laravel-fullcalendar/v/unstable)](https://packagist.org/packages/momenoor/laravel-fullcalendar) [![License](https://poser.pugx.org/momenoor/laravel-fullcalendar/license)](https://packagist.org/packages/momenoor/laravel-fullcalendar)
@@ -14,6 +16,12 @@ Or add the following to your composer.json's require section and `composer updat
 ```json
 "require": {
 	"momenoor/laravel-fullcalendar": "~1.0"
+}
+```
+# Laravel 11 now supported
+```json
+"require": {
+	"momenoor/laravel-fullcalendar": "~2.0"
 }
 ```
 
